@@ -1,9 +1,9 @@
 # Minsun Jung
 **UIUX Designer** / **Editorial designer**   
-* Phone : 010-xxxx-xxxx  
-* Email : msjung0220@gmail.com  
-* Blog : http://0000.tistory.com/  
-*  Github : https://github.com/minsunjung  
+&nbsp;&nbsp; Phone : 010-xxxx-xxxx  
+&nbsp;&nbsp; Email : msjung0220@gmail.com  
+&nbsp;&nbsp; Blog : http://0000.tistory.com/  
+&nbsp;&nbsp; Github : https://github.com/minsunjung  
 <br/>
 ## About me
 **저는 유연한 디자이너가 되고자 합니다** uxui디자인은 사용자의 경험과 피드백이 보다 빠르기 때문에 유연함이 필요하다고 생각합니다.  
@@ -20,6 +20,7 @@
 <br/>
 
 ## 경력사항 
+
 #### 2015.04-2018.12 - **Ido commutication**
 * 기업브로슈어 및 팜플렛 제작
 * 전시 포스터 및 부스배너 제작
