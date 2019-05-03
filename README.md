@@ -1,9 +1,9 @@
-# Minsun Jung <hr/>
+# Minsun Jung
 **UIUX Designer** / **Editorial designer** 
-&nbsp;&nbsp; Phone : 010-xxxx-xxxx
-&nbsp;&nbsp; Email : msjung0220@gmail.com
-&nbsp;&nbsp; Blog : http://0000.tistory.com/
-&nbsp;&nbsp; Github : https://github.com/minsunjung
+&nbsp;&nbsp; Phone : 010-xxxx-xxxx  
+&nbsp;&nbsp; Email : msjung0220@gmail.com  
+&nbsp;&nbsp; Blog : http://0000.tistory.com/  
+&nbsp;&nbsp; Github : https://github.com/minsunjung  
 <br/>
 ### About me
 
