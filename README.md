@@ -34,8 +34,7 @@
 * 홍보 전시 및 현수막 제작
 <br/>
 ### Education
-[메가박스 app 리뉴얼]()  
-![Diet advice app](img/portfolio_img1.png)
+
 
 
 
